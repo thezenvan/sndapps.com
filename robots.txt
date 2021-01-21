@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://sndapps.com/sitemap.xml
+Sitemap: https://sndapps.com/sitemap.rss
+Sitemap: https://sndapps.com/sitemap.xml
